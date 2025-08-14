@@ -1,0 +1,24 @@
+
+---
+
+## **4️⃣ Create a custom theme**
+Create a file **`custom.css`**:
+
+```css
+/* custom.css for Marp */
+section {
+  font-family: 'Segoe UI', sans-serif;
+}
+
+h1 {
+  color: #1e90ff;
+}
+
+h2 {
+  color: #ff6347;
+}
+
+footer {
+  font-size: 0.8em;
+  color: #666;
+}
