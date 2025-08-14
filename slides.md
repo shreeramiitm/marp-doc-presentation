@@ -22,7 +22,9 @@ math: katex
 
 ---
 
-<!-- _backgroundImage: url('https://images.unsplash.com/photo-1503023345310-bd7c1de61c7d') -->
+<!-- _backgroundImage: url('https://images.unsplash.com/photo-1503023345310-bd7c1de61c7d?auto=format&fit=crop&w=1600&q=80') -->
+<!-- _backgroundSize: cover -->
+<!-- _color: white -->
 # 🚀 Introduction
 
 Our product enables developers to streamline workflows with high performance and modular design.
@@ -38,11 +40,15 @@ Our product enables developers to streamline workflows with high performance and
 
 ---
 
-# 🏗 Architecture
+# 📊 Performance Analysis
 
-```mermaid
-graph LR
-A[Client] --> B[API Gateway]
-B --> C[Auth Service]
-B --> D[Core Engine]
-D --> E[Database]
+Algorithmic complexity example:
+
+$$
+T(n) = O(n \log n)
+$$
+
+---
+
+# 📬 Contact
+**Email:** 24f2001743@ds.study.iitm.ac.in
